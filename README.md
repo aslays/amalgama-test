@@ -1,5 +1,3 @@
-# Instalacion Linux Ubuntu/Mint/Debian #
-Guia de instalación inicial.
 
 ### PROYECTO ###
 NODE -v ->16.6.1
@@ -38,10 +36,5 @@ Boilerplate(generico)
 //http://localhost:3102/ejercitos/battle/civilization1=Ingleses&civilization2=Chinos
 
 
-### INSTALAR NODEJS ###
-```sh
-sudo curl -sL https://deb.nodesource.com/setup | sudo bash --
-sudo apt-get install nodejs
-sudo apt-get install build-essential
-```
+
 
